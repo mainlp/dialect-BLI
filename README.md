@@ -8,4 +8,8 @@ Authors: Ekaterina Artemova and Barbara Plank
 
 1. Use the scripts from the [wikipedia2corpus](https://github.com/GermanT5/wikipedia2corpus) repository to preprocess German and dialect Wikipedias. 
 
-2. The notebook [02_align_categories](https://github.com/mainlp/dialect-BLI/blob/main/02_align_categories.ipynb)  aligns page titles from dialect Wikipedias to German Wikipedia using Wikipedia API [Wikipedia-API](https://pypi.org/project/Wikipedia-API/).
+2. The notebook [02_align_categories](https://github.com/mainlp/dialect-BLI/blob/main/02_align_categories.ipynb)  aligns page titles from dialect Wikipedias to German Wikipedia using Wikipedia API [Wikipedia-API](https://pypi.org/project/Wikipedia-API/) and segments the Wikipedia pages in sentences.
+
+3. The notebook [03_compute_sentence_similarity](https://github.com/mainlp/dialect-BLI/blob/main/03_compute_sentence_similarity.ipynb) , computes pairwise similarity and applies a number of filters to post-process aligned sentences.
+
+4. The notebook [04_output_sentences](https://github.com/mainlp/dialect-BLI/blob/main/04_output_sentences.ipynb) , computes pairwise similarity and applies a number of filters to post-process aligned sentences.
