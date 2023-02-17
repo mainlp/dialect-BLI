@@ -16,4 +16,4 @@ Authors: Ekaterina Artemova and Barbara Plank
 
 5. Run [awesome-aling](https://github.com/neulab/awesome-align) to run word alignment. See [05_run_aligner](https://github.com/mainlp/dialect-BLI/blob/main/05_run_aligner.sh) parameters to run the awesome-align script. 
 
-6. The notebook [06_lexicon_induction] (https://github.com/mainlp/dialect-BLI/blob/main/04_output_sentences.ipynb) outputs the final bilingual lexicons. 
+6. The notebook [06_lexicon_induction](https://github.com/mainlp/dialect-BLI/blob/main/04_output_sentences.ipynb) outputs the final bilingual lexicons. 
