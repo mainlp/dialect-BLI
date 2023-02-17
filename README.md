@@ -12,7 +12,8 @@ Authors: Ekaterina Artemova and Barbara Plank
 
 3. The notebook [03_compute_sentence_similarity](https://github.com/mainlp/dialect-BLI/blob/main/03_compute_sentence_similarity.ipynb), computes pairwise similarity and applies a number of filters to post-process aligned sentences.
 
-4. The notebook [04_output_sentences](https://github.com/mainlp/dialect-BLI/blob/main/04_output_sentences.ipynb), computes pairwise similarity and applies a number of filters to post-process aligned sentences.
+4. The notebook [04_output_sentences](https://github.com/mainlp/dialect-BLI/blob/main/04_output_sentences.ipynb) computes pairwise similarity and applies a number of filters to post-process aligned sentences.
 
 5. Run [awesome-aling](https://github.com/neulab/awesome-align) to run word alignment. See [05_run_aligner](https://github.com/mainlp/dialect-BLI/blob/main/05_run_aligner.sh) parameters to run the awesome-align script. 
 
+6. The notebook [06_lexicon_induction] (https://github.com/mainlp/dialect-BLI/blob/main/04_output_sentences.ipynb) outputs the final bilingual lexicons. 
