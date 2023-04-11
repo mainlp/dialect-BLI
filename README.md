@@ -28,6 +28,7 @@ Authors: Ekaterina Artemova and Barbara Plank
 
 ## Cite
 
+```
 @inproceedings{artemova-plank-2023-low,
     title = "Low-resource Bilingual Dialect Lexicon Induction with Large Language Models",
     author = "Artemova, Ekaterina  and
@@ -36,6 +37,6 @@ Authors: Ekaterina Artemova and Barbara Plank
     year = "2023",
 }
 
-
+```
 
 
