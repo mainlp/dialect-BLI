@@ -5,6 +5,7 @@ This repo contains notebooks and other materials used in our NoDaLiDa 2023 paper
 
 Authors: Ekaterina Artemova and Barbara Plank
 
+## Notebooks
 
 1. Use the scripts from the [wikipedia2corpus](https://github.com/GermanT5/wikipedia2corpus) repository to preprocess German and dialect Wikipedias. 
 
@@ -17,3 +18,24 @@ Authors: Ekaterina Artemova and Barbara Plank
 5. Run [awesome-aling](https://github.com/neulab/awesome-align) to run word alignment. See [05_run_aligner](https://github.com/mainlp/dialect-BLI/blob/main/05_run_aligner.sh) parameters to run the awesome-align script. 
 
 6. The notebook [06_lexicon_induction](https://github.com/mainlp/dialect-BLI/blob/main/04_output_sentences.ipynb) outputs the final bilingual lexicons. 
+
+
+## Data
+
+1. The folder [labelled_data](https://github.com/mainlp/dialect-BLI/blob/main/labelled_data)  contains the manually labelled sentence pairs and word pairs.
+
+2. The folder [bli_data](https://github.com/mainlp/dialect-BLI/blob/main/bli_data)  contains the extracted bitext and word pairs.
+
+## Cite
+
+@inproceedings{artemova-plank-2023-low,
+    title = "Low-resource Bilingual Dialect Lexicon Induction with Large Language Models",
+    author = "Artemova, Ekaterina  and
+      Plank, Barbara",
+    booktitle = "Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa 2023) (NoDaLiDa)",
+    year = "2023",
+}
+
+
+
+
