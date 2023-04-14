@@ -31,8 +31,7 @@ Authors: Ekaterina Artemova and Barbara Plank
 ```
 @inproceedings{artemova-plank-2023-low,
     title = "Low-resource Bilingual Dialect Lexicon Induction with Large Language Models",
-    author = "Artemova, Ekaterina  and
-      Plank, Barbara",
+    author = "Artemova, Ekaterina  and Plank, Barbara",
     booktitle = "Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa 2023) (NoDaLiDa)",
     year = "2023",
 }
