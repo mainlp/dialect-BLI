@@ -19,12 +19,15 @@ Authors: Ekaterina Artemova and Barbara Plank
 
 6. The notebook [06_lexicon_induction](https://github.com/mainlp/dialect-BLI/blob/main/04_output_sentences.ipynb) outputs the final bilingual lexicons. 
 
+7. The notebook [sampling](https://github.com/mainlp/dialect-BLI/blob/main/freq/sampling.ipynb) examplifies stratified sampling from a frequency dict.
 
 ## Data
 
 1. The folder [labelled_data](https://github.com/mainlp/dialect-BLI/blob/main/labelled_data)  contains the manually labelled sentence pairs and word pairs.
 
 2. The folder [bli_data](https://github.com/mainlp/dialect-BLI/blob/main/bli_data)  contains the extracted bitext and word pairs.
+
+3. The folder [freq](https://github.com/mainlp/dialect-BLI/blob/main/freq) contains frequency dicitionaries built from Bavarian  and Alemannic Wikipedias.  
 
 ## Cite
 
